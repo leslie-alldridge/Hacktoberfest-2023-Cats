@@ -1,6 +1,6 @@
 # Hacktoberfest-2020-Cats
 
-Participate in Hacktoberfest and share cool photos of your cat(s)!
+Participate in Hacktoberfest and share cool photos of your cat(s)! A star will help others find this repository. Cheers!
 
 ## Steps
 
