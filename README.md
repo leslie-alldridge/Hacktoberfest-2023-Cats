@@ -6,7 +6,7 @@ Participate in Hacktoberfest and share cool photos of your cat(s)! A star will h
 
 1. Create a fork of the repository
 2. Add your cat photo(s) to the cats folder
-3. Link your files using the following code
+3. Link your files by adding the following code
 
 ```
 <div class="gallery-item">
