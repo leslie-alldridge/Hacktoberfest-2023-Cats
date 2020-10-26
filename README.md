@@ -15,7 +15,7 @@ Participate in Hacktoberfest and share cool photos of your cat(s)! A star will h
 ```
 
 4. Create a pull request and wait for a merge
-5. Done!
+5. Done! View the results [here](https://leslie-alldridge.github.io/Hacktoberfest-2020-Cats/) 
 
 Template credit below:
 
