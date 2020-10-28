@@ -15,10 +15,6 @@ var resizeAll = function () {
   });
 };
 gallery.querySelectorAll('img').forEach(function (item) {
-  item.classList.add('byebye');
-  if (item.complete) {
-    item.classList.remove('byebye');
-  } else {
     item.addEventListener('load', function () {
       var altura = getVal(gallery, 'grid-auto-rows');
       var gap = getVal(gallery, 'grid-row-gap');
@@ -27,7 +23,6 @@ gallery.querySelectorAll('img').forEach(function (item) {
         'span ' + Math.ceil((getHeight(gitem) + gap) / (altura + gap));
       item.classList.remove('byebye');
     });
-  }
 });
 window.addEventListener('resize', resizeAll);
 gallery.querySelectorAll('.gallery-item').forEach(function (item) {
