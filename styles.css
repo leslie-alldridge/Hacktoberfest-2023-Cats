@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
 body {
-  background-color: #eee;
+  background-color: #7E81EB;
+  font-family: 'Montserrat', sans-serif;
 }
 .hello {
   opacity: 1 !important;
@@ -42,7 +44,7 @@ body {
 .gallery img {
   max-width: 100%;
   border-radius: 8px;
-  box-shadow: 0 0 16px #333;
+  box-shadow: 0 0 10px #333;
   transition: all 1.5s ease;
 }
 .gallery img:hover {
