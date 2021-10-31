@@ -30,3 +30,6 @@ gallery.querySelectorAll('.gallery-item').forEach(function (item) {
     item.classList.toggle('full');
   });
 });
+
+// resize all images on page load - prevents bug where images sometimes overlap
+window.onload = resizeAll;
