@@ -1,4 +1,4 @@
-# Hacktoberfest-2022-Cats
+# Hacktoberfest-2023-Cats
 
 Thanks to everyone for their contributions.
 
