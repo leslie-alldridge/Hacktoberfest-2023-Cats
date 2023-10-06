@@ -10,18 +10,18 @@ Participate in Hacktoberfest and share cool photos of your cat(s)! A star will h
 2. Add your cat photo(s) to the cats folder
 3. Link your files by adding the following code
 
-```
-<div class="gallery-item">
-    <div class="content"><img src="cats/your_file_name.jpg" alt="describe your photo"></div>
-</div>
-```
+    ```html
+    <div class="gallery-item">
+        <div class="content"><img src="cats/your_file_name.jpg" alt="describe your photo"></div>
+    </div>
+    ```
 
 4. Create a pull request and wait for a merge
-5. Done! View the results [here](https://leslie-alldridge.github.io/Hacktoberfest-20213-Cats/) 
+5. Done! View the results [here](https://leslie-alldridge.github.io/Hacktoberfest-2023-Cats/)
 
 Template credit below:
 
-```
+```txt
 Copyright (c) 2020 by vhanla (https://codepen.io/vhanla/pen/PxjZvj)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
